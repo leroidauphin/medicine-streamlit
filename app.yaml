@@ -1,0 +1,2 @@
+runtime: python3.12
+entrypoint: streamlit run main.py --server.port 8080
